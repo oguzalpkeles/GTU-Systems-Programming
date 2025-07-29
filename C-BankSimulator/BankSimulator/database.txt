@@ -1,0 +1,5 @@
+BankID_01 200
+BankID_02 1500
+BankID_03 500
+BankID_04 1250
+BankID_05 100
